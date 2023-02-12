@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(190deg, rgb(28, 155, 234), rgb(214, 31, 61));
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    color: antiquewhite;
+    margin: 100px auto;
+}
+
+.heading {
+    font-family: Montserrat;
+}
+
+.img {
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+#status {
+    font-size: 50px;
+    font-family: Poppins;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+
+.btn {
+    background-color: rgba(19, 207, 254, 0.626);
+    border-color: rgba(255, 255, 255, 0.735);
+}
